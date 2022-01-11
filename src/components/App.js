@@ -92,8 +92,7 @@ const App = () => {
      <button className="button" onClick={()=>setdark(!dark) }>dark</button>
       <p className="App-intro">App where you can find your best movies </p>
      </div>
-      <button className="button" onClick={()=>setdark(!dark) }>dark</button>
-      <p className="App-intro">App where you can find your best movies </p>
+     
       
 
 
